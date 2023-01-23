@@ -1,4 +1,4 @@
-# hapi-api
+# bookshelf-hapi-api
 
 #### # Run
 By default, this API runs on endpoint `/books` and on port `9000`<br>
